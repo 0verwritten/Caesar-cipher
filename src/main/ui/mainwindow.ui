@@ -50,7 +50,11 @@ QPushButton:pressed{
    </property>
    <layout class="QHBoxLayout" name="horizontalLayout_2">
     <item>
-     <widget class="QTextBrowser" name="textBrowser"/>
+     <widget class="QTextBrowser" name="textBrowser">
+      <property name="readOnly">
+       <bool>false</bool>
+      </property>
+     </widget>
     </item>
     <item>
      <layout class="QVBoxLayout" name="verticalLayout">
@@ -148,7 +152,11 @@ padding:3px;</string>
      </layout>
     </item>
     <item>
-     <widget class="QTextBrowser" name="textBrowser_2"/>
+     <widget class="QTextBrowser" name="textBrowser_2">
+      <property name="readOnly">
+       <bool>false</bool>
+      </property>
+     </widget>
     </item>
    </layout>
   </widget>
