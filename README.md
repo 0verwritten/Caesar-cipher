@@ -11,9 +11,5 @@
 
 ## Help
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis, quae quod amet libero beatae temporibus
-quisquam ipsam delectus deserunt fugit eum atque autem iste harum sunt impedit et eos explicabo, repellat
-possimus obcaecati architecto aut labore vel dolorem. Quam numquam, id nobis molestias ea architecto veritatis tenetur
-ex quos voluptas mollitia deserunt accusantium aliquam velit dicta amet est culpa quidem, vitae, neque praesentium suscipit
-error. Impedit, animi veritatis, incidunt doloremque fuga excepturi aut recusandae ipsa possimus voluptates repellat fugit enim.
-sNam natus nulla mollitia minima dignissimos atque aspernatur laudantium, sed, architecto cupiditate, qui nemo autem amet rerum dolor iusto odit.
+To encrypt text you need to enter your text into left input box and enter value of shift.<br>
+To decrypt text you need to enter your text into right input box and enter value of shift (the opposite of the sign).
